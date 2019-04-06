@@ -1,0 +1,9 @@
+(RETROBYTE)
+""""""""""""""
+(Bodycount Trainer)
+""""""""""""""""""""
+MediaID = 41DAC51E
+TitleID = 434D0839
+TU =  None
+Cheat Options =  1) INF Ammo | 2) No Reload | 555) Enable All | 999) Disable All
+"""""""""""""""""""

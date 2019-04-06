@@ -1,0 +1,9 @@
+(RETROBYTE)
+""""""""""""""
+(Assassin's Creed 3 Trainer)
+""""""""""""""""""""
+MediaID = 3E4B911D
+TitleID = 555308AE
+TU =  TU6
+Cheat Options =  1) INF Ammo | 2) GOD Mode | 3) Cash Mod | 555) Enable All | 999) Disable All
+"""""""""""""""""""

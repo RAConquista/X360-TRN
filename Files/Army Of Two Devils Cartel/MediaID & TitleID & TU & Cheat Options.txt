@@ -1,0 +1,9 @@
+(RETROBYTE)
+""""""""""""""
+(Army Of Two Devils Cartel Trainer)
+""""""""""""""""""""
+MediaID = 60F8EF51
+TitleID = 454109AB
+TU =  None
+Cheat Options =  L"1) God | 2) Ammo + Grenade + No-Reload | 3) Max-Cash | 4) Instant Rage | 555) Enable All | 999) Disable All
+"""""""""""""""""""

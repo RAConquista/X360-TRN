@@ -1,0 +1,9 @@
+(RETROBYTE)
+""""""""""""""
+(Alice Madness Returns Trainer)
+""""""""""""""""""""
+MediaID = 31C4B45C
+TitleID = 45410916
+TU =  None
+Cheat Options =  1) INF Teeth | 2) GOD Mode | 555) Enable All | 999) Disable All
+"""""""""""""""""""

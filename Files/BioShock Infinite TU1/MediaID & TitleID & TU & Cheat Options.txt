@@ -1,0 +1,9 @@
+(RETROBYTE)
+""""""""""""""
+(BioShock Infinate Trainer)
+""""""""""""""""""""
+MediaID = 7F5C4901
+TitleID = 5454085D
+TU =  TU1
+Cheat Options =  1) GOD | 2) Inf-Ammo + No-Reload | 3) Inf-Salts | 4) Max-Cash | 5) Max Lock Picks | 555) Enable All | 999) Disable All
+"""""""""""""""""""
