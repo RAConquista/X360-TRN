@@ -1,0 +1,9 @@
+(RETROBYTE)
+""""""""""""""
+(COD World At War Trainer)
+""""""""""""""""""""
+MediaID = ????????
+TitleID = 4156081C
+TU =  TU7
+Cheat Options =  1) Points Mod | 2) INF Ammo | 3) No Reload | 555) Enable All | 999) Disable All
+"""""""""""""""""""

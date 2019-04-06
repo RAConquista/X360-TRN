@@ -1,0 +1,9 @@
+(RETROBYTE)
+""""""""""""""
+(Condemned Criminal Origins Trainer)
+""""""""""""""""""""
+MediaID = ????????
+TitleID = 534507D2
+TU =  None
+Cheat Options =  1) GOD Mode | 2) Instant Kill | 3) Inf-Stamina| 555) Enable All | 999) Disable All
+"""""""""""""""""""

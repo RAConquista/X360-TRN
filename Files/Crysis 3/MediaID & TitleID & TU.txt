@@ -1,0 +1,10 @@
+(RETROBYTE)
+""""""""""""""
+(Crysis 3 Trainer)
+""""""""""""""""""""
+MediaID = 23955AA4
+TitleID = 4541098E
+TU =  None
+Cheat Options =  1) GOD Mode | 2) Instant Kill | 3) INF Energy | 4) INF Ammo | 5) No Reload | 555) Enable All | 999) Disable All
+"""""""""""""""""""
+

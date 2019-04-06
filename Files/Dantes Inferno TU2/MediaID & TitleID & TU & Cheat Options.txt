@@ -1,0 +1,9 @@
+(RETROBYTE)
+""""""""""""""
+(Dantes Inferno Trainer)
+""""""""""""""""""""
+MediaID = 49028C6A
+TitleID = 454108CF
+TU =  TU2
+Cheat Options =  1) DEMI GOD | 2) Instant Inf Redemption | 3) Max Money | 4) Max Level | 5) Inf Mana | 555) Enable All | 999) Disable All"
+"""""""""""""""""""

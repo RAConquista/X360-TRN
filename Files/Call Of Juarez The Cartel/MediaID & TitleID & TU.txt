@@ -1,0 +1,9 @@
+(RETROBYTE)
+""""""""""""""
+(Call Of Juarez - The Cartel Trainer)
+""""""""""""""""""""
+MediaID = 27E1CD2F
+TitleID = 55530874
+TU =  None
+Cheat Options =  1) God Mode | 2) Inf Ammo | 3) Inf Grenade | 555) Enable All | 999) Disable All
+"""""""""""""""""""

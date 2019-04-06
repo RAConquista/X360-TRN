@@ -1,0 +1,25 @@
+(RETROBYTE)
+""""""""""""""
+(COD Modern Warfare Trainer)
+""""""""""""""""""""
+MediaID = 15E8CF88
+TitleID = 415607E6
+TU =  TU4
+Cheat Options =  1) GOD Mode | 2) INF Ammo | 3) INF Grenades | 555) Enable All | 999) Disable All
+"""""""""""""""""""
+
+(COD Modern Warfare 2 Trainer)
+""""""""""""""""""""
+MediaID = ????????
+TitleID = 41560817
+TU =  TU7
+Cheat Options =  1) GOD Mode | 2) INF Ammo | 555) Enable All | 999) Disable All
+"""""""""""""""""""
+
+(COD Modern Warfare 3 Trainer)
+""""""""""""""""""""
+MediaID = ????????
+TitleID = 415608CB
+TU =  TU20
+Cheat Options =  1) - INF Weapon Ammo | 2) - INF Grenades (Stun/Frag) | 3) - INF Claymores/C4 | 4) - GOD Mode | 5) - Blind AI | 6) - Noob Difficulty | 7) - Max XP | 555) Enable All | 999) Disable All
+"""""""""""""""""""

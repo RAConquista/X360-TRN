@@ -1,0 +1,10 @@
+(RETROBYTE)
+""""""""""""""
+(DeadSpace Trainer)
+""""""""""""""""""""
+MediaID = 6a216dcc
+TitleID = 45410857
+TU =  None
+Cheat Options =  1) Demi God | 2) Instant Kill | 3) Inf Ammo & No-Reload | 4) Inf Status | 5) Inf-Nodes | 6) Max-Credits | 555) Enable All | 999) Disable All
+"""""""""""""""""""
+
