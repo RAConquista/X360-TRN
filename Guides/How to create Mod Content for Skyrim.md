@@ -1,6 +1,6 @@
 # Mod Inhalte für The Elder Scrolls - Skyrim erstellen
 <br>
-<p align ="center"><img src="https://raw.githubusercontent.com/RAConquista/X360-TRN/master/docs/images/skyrimmod.png"></img>
+<p align ="center"><img src="https://raw.githubusercontent.com/RAConquista/X360-TRN/master/docs/images/skyrimmod.png"></img></p>
 Zuerst sollte klar gestellt werden das man die Mod Inhalte nicht wirklich selbst erstellt sondern bereits veröffentlichte Inhalte auf der Xbox 360 verfügbar macht. Dazu geht man wie folgt vor:
 <p>
  <b>Benötigte Programme:</b>
