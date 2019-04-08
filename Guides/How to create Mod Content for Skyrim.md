@@ -15,6 +15,7 @@ Zuerst sollte klar gestellt werden das man die Mod Inhalte nicht wirklich selbst
  <br>
 Als erstes besorgt man sich die gewünschten Mods auf den einschlägigen Internet Seiten (Google nutzen) und nachdem diese heruntergeladen wurden erstellt man sich einen Ordner auf dem Desktop oder einem anderen Ort und kopiert alle Dateien dort hin. 
 <p>
+ <br>
 Nun wird LeFluffie App gestartet und wählt die "Packet Creation" aus und anschließend als Type "STFS Packet". Wenn das erledigt ist wird mit rechtem Mausklick ein neuer Ordner mit dem Namen "Base" erstellt welcher anschließend mit linkem Mausklick markiert wird. Nun zieht man per Drag & Drop die gewünschten Mod Dateien in die linke Seite von LeFluffie und bestätigt dies anschließend. </p>
 <br>
 <p align ="center"><img src="https://raw.githubusercontent.com/RAConquista/X360-TRN/master/docs/images/lefluffie_packcreate.jpg"></img></p>
