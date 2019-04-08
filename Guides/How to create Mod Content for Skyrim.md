@@ -26,6 +26,10 @@ Bei Title ID gibt man die ID von Skyrim an und als Publisher seinen Namen oder e
 im Spiel heißen soll und klickt auf Erstellen. Dies kann unter Umständen einige Zeit in Anspruch nehmen, je nach Größe der Modifikation. </p>
 <br>
 <br>
+<p align ="center"><img src="https://raw.githubusercontent.com/RAConquista/X360-TRN/master/docs/images/lefluffie_packcreate.jpg"></img></p>
+<br>
+<br>
 <b>WICHTIG!</b>
 <br>
 Es können keine HD Mods auf der Xbox verwendet werden da das Gerät nur Inhalte mit 1024 Bildpunkten verarbeitet und alle Optischen Veränderungen mit höherer Auflösung Fehler verursachen. 
+
