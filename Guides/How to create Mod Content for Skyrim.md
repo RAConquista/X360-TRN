@@ -9,9 +9,9 @@ Zuerst sollte klar gestellt werden das man die Mod Inhalte nicht wirklich selbst
 <br>
  <b>Skyrim Title ID:</b> 425307E6
  <br>
-<p>
+<br>
  <b>GUIDE:</b>
- </p>
+ <br>
  <br>
 Als erstes besorgt man sich die gewünschten Mods auf den einschlägigen Internet Seiten (Google nutzen) und nachdem diese heruntergeladen wurden erstellt man sich einen Ordner auf dem Desktop oder einem anderen Ort und kopiert alle Dateien dort hin. 
 <p>
